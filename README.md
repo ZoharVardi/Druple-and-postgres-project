@@ -17,8 +17,8 @@ This project leverages Docker to containerize and manage a Drupal website with a
 
 ---
 
-##  **1. Setup & Restore**
-1️**Make the script executable**:  
+1. Setup & Restore**
+1️Make the script executable**:  
 ```bash
 chmod +x setupAndRestore.sh
 
